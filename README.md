@@ -6,6 +6,6 @@
 * 👨‍💻 All of my projects are available at [DragonSigh/portfolio-and-projects](https://github.com/DragonSigh/portfolio-and-projects)
 * 💬 Ask me about **IT, biohacking, healthcare, life**
 * 📫 How to reach me **dragonsigh@gmail.com**
-* 📄 Know about my experiences [DragonSigh/cv-resume-data-analyst](https://github.com/DragonSigh/cv-data-analyst)
+* 📄 Know about my experiences [DragonSigh/cv-resume-data-analyst](https://github.com/DragonSigh/cv-resume-data-analyst)
 * 🏆 Latest achievement is **Google Data Analytics Professional Certificate**
 * ⚡ Fun fact: **I sneeze when I see the sun**
