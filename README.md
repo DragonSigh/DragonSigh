@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst with a strong engineering background from Russia</h3>
 
 * 🔭 I’m currently working on **my personal data analytics roadmap**
-* 🌱 I’m currently learning **Data Science in medicine specialization at Geekbrains**
+* 🌱 I’m currently learning **system analyst specialization at Karpov Courses**
 * 👨‍💻 All of my projects are available at [DragonSigh/portfolio-and-projects](https://github.com/DragonSigh/portfolio-and-projects)
 * 💬 Ask me about **IT, healthtech, biohacking, healthcare, life**
 * 📫 How to reach me **dragonsigh@gmail.com**
