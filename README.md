@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladislav</h1>
-<h3 align="center">Data Analyst with a strong engineering background from Russia</h3>
+<h3 align="center">Data Analyst with a strong engineering background</h3>
 
 * 🔭 I’m currently working on **my personal data analytics roadmap**
 * 🌱 I’m currently learning **system analyst specialization at Karpov Courses**
