@@ -8,4 +8,4 @@
 * 📫 You can reach me at **dragonsigh@gmail.com** / telegram **@dragonattack**
 * 📄 Know about my experiences [DragonSigh/cv-resume-data-analyst](https://github.com/DragonSigh/cv-resume-data-analyst)
 * 🏆 Latest achievement is **Finished System Analyst career course at Karpov.Courses**
-* ⚡ Fun fact: **I sneeze when I see the sun**
+* ⚡ Fun fact: **I sneeze when I see the sun** (and it's genetic)
